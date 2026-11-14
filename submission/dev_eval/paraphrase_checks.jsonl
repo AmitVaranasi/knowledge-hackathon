@@ -1,0 +1,30 @@
+{"id":"m1","group":"dup-001","question":"What APY does the 17 month certificate special pay?","must_include":["4.10%"],"must_not_include":[],"category":"tier"}
+{"id":"m2","group":"dup-009","question":"What's the current 30 year fixed mortgage rate?","must_include":["7.13","7.25"],"must_not_include":["6.037%","6.061%","5.954%"],"category":"stale"}
+{"id":"m3","group":"dup-016","question":"Auto loan APR for 60 months on a 2026 car?","must_include":["5.39%"],"must_not_include":["5.34%"],"category":"stale"}
+{"id":"m4","group":"dup-016","question":"I'm buying a 2025 vehicle, what's the 60-month auto loan rate?","must_include":["5.39%"],"must_not_include":["5.34%"],"category":"stale"}
+{"id":"m5","group":"dup-045","question":"If I keep $15,000 in Share Savings, what dividend rate do I get?","must_include":["0.15"],"must_not_include":["0.30%","0.40%"],"category":"tier"}
+{"id":"m6","group":"dup-054","question":"What's the ABA routing number for Dupaco?","must_include":["273974581"],"must_not_include":[],"category":"entity"}
+{"id":"m7","group":"dup-068","question":"Where is the Galena branch located?","must_include":["11375 Oldenburg"],"must_not_include":[],"category":"branch"}
+{"id":"m8","group":"dup-073","question":"How many branch offices does Dupaco operate?","must_include":["22"],"must_not_include":["24 branch"],"category":"conflict"}
+{"id":"m9","group":"dup-087","question":"How many times has Forbes recognized Dupaco?","must_include":["fifth"],"must_not_include":["fourth"],"category":"stale"}
+{"id":"m10","group":"dup-008","question":"Where on the website can I find certificate rates?","must_include":["dupaco.com/personal/savings-account"],"must_not_include":["info.dupaco.com/certificate_account_rates"],"category":"stale"}
+{"id":"m11","group":"dup-052","question":"What interest do your checking accounts pay?","must_include":["2.50%"],"must_not_include":["3% APY"],"category":"current"}
+{"id":"m12","group":"dup-035","question":"What's the regular APR on the Platinum Visa card?","must_include":["12.5"],"must_not_include":["9.9%"],"category":"tier"}
+{"id":"m13","question":"What is the APR on a 48-month personal loan?","must_include":["10.99"],"must_not_include":[],"category":"tier"}
+{"id":"m14","question":"What was the 12-month certificate APY on May 15, 2026?","as_of":"2026-05-15","must_include":["2.90%"],"must_not_include":["3.40%"],"category":"asof"}
+{"id":"m15","question":"What is the 12-month certificate APY?","must_include":["3.40%"],"must_not_include":["2.90%"],"category":"current"}
+{"id":"m16","question":"What was the 30-year fixed mortgage rate for loans of $100,000 or less in June 2026?","as_of":"2026-06-30","must_include":["6.125"],"must_not_include":["7.13"],"category":"asof"}
+{"id":"m17","question":"What was the 1st Rate Checking APY on balances of $5,000 to $24,999 in mid May 2026?","as_of":"2026-05-20","must_include":["3.00%"],"must_not_include":["2.50%"],"category":"asof"}
+{"id":"m18","question":"What is the 1st Rate Checking APY for a $10,000 balance?","must_include":["2.50%"],"must_not_include":["3.00%"],"category":"current"}
+{"id":"m19","question":"What rate do you offer on a 5/1 ARM?","must_include":[],"must_not_include":[],"category":"should_refuse"}
+{"id":"m20","question":"What are the hours of the Mullan Avenue branch on Saturday?","must_include":[],"must_not_include":[],"category":"should_refuse"}
+{"id":"m21","question":"What is the HELOC rate?","must_include":["6.25"],"must_not_include":["1.99"],"category":"current"}
+{"id":"m22","question":"What's the APY on Bright Savings?","must_include":["2.25"],"must_not_include":["0.35%"],"category":"entity"}
+{"id":"m23","question":"When will the Hy-Vee branch close?","must_include":["March 31, 2026"],"must_not_include":[],"category":"temporal"}
+{"id":"m24","question":"Which Visa credit cards does Dupaco offer and at what APR?","must_include":["Platinum Visa","Rewards Visa","12.5"],"must_not_include":["9.9%"],"category":"list"}
+{"id":"m25","question":"What is the 10-month jumbo certificate special rate?","must_include":["4.00%"],"must_not_include":["3.90%"],"category":"current"}
+{"id":"m26","question":"What was the 17-month certificate special APY in July 2026?","as_of":"2026-07-15","must_include":["3.85%"],"must_not_include":["4.10%","3.95%"],"category":"asof"}
+{"id":"m27","question":"What's the rate for a 15-year fixed mortgage?","must_include":["6.75"],"must_not_include":[],"category":"current"}
+{"id":"m28","question":"What's the lowest auto loan rate available?","must_include":["5.19"],"must_not_include":[],"category":"tier"}
+{"id":"m29","question":"Do you offer a 25-month certificate special?","as_of":null,"must_include":[],"must_not_include":["3.60%","3.70%"],"category":"discontinued"}
+{"id":"m30","question":"What is the minimum to open a High-Yield Savings account?","must_include":["50,000"],"must_not_include":[],"category":"current"}
